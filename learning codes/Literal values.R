@@ -1,0 +1,22 @@
+# Literal Values 
+
+# Literal value is part of a statement or expression used exactly as intended for interpretation.
+# example: 10 & 20 are literal values cz they literally represent the numbers 10 and 20.
+
+# In R, there are five basic data types:
+# 1. Logical 2. Integer 3. Numeric 4. Character 5. Complex
+
+#***************************************
+# Logical
+
+# with the Logical data type, there are two literals, 'TRUE' and 'FALSE' or 'T' and 'F'
+# R is case-sensitive 
+
+#***************************************
+# Numeric (decimal/real numbers)
+# 10, 20 - Integer
+# 0.50, 3.14 - Decimal 
+
+# R considers any number (integer or decimal) a Numeric literal
+
+# In programming terminology, we call a program code and each instruction (line) in that code a line of code.
