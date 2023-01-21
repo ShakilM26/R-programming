@@ -1,6 +1,6 @@
-#Basically there are 3 'number' types in are R 
+Basically there are 3 'number' types in are R 
 
-#* Numeric * integer * Complex
+* Numeric * integer * Complex
 
 x = 5  # Numeric
 y = 10L # integer
@@ -20,4 +20,3 @@ class(z)
 
 as.integer(x)  # numeric to integer
 as.numeric(y)  # integer to numeric
-
